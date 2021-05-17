@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/caflores31/ORM_E-commerce-Back-End">
-    <img src="images/ecom.jpeg" alt="Logo" width="80" height="80">
+    <img src="assets/ecom.jpeg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">E-Commerce Backend</h3>
