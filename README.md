@@ -75,16 +75,6 @@ SO THAT my company can compete with other e-commerce companies
 
 
 <!-- GETTING STARTED -->
-### Prerequisites
-
-* Clone the repo 
-``` 
-git@github.com:caflores31/ORM_E-commerce-Back-End.git
-
-* npm
-  ```sh
-  npm install 
-  ```
 
 ### Installation
 
