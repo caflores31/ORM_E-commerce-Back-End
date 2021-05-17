@@ -80,7 +80,7 @@ SO THAT my company can compete with other e-commerce companies
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:money-managers/reactBank.git
+   git clone git@github.com:caflores31/ORM_E-commerce-Back-End.git
    ```
 2. Install NPM packages
    ```sh
